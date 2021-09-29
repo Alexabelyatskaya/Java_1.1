@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Ошибка 1](https://github.com/Alexabelyatskaya/Java_1.1/blob/master/Task1/src/Main.java)
+* [Ошибка 1](https://github.com/Alexabelyatskaya/Java_1.1/issues/1)
 
 ## Описание процесса тестирования
 
