@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Ошибка 1](https://github.com/Alexabelyatskaya/Java_1.1/issues/1)
+* [Результат вычисления не соответствует условиям задачи](https://github.com/Alexabelyatskaya/Java_1.1/issues/1)
 
 ## Описание процесса тестирования
 
