@@ -21,5 +21,5 @@
 
 Тестирование производилось в следующем окружении:
 * Ubuntu 18.04.5 LTS * 64
-* Java 11.0.11
+* OpenJDK build 11.0.11+9-Ubuntu-0ubuntu2.18.04
 * IntelliJ IDEA
